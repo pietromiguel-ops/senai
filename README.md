@@ -1,0 +1,2 @@
+# senai
+aula teorica script
